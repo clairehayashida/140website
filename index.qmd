@@ -1,11 +1,17 @@
 ---
-title: "Personal Website"
+title: "Claire Hayashida"
+about:
+  template: jolla
+  image: profile_pic.JPEG
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/clairehayashida
 ---
 
-This is a Quarto website.
+Claire Hayashida is a third-year undergraduate at the University of California, Los Angeles with interests in Data Science and Accounting. Download [My Resume](/resume.pdf)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Los Angeles \| Los Angeles, CA
+B.S in Statistics and Data Science \| Sept 2022 - June 2026

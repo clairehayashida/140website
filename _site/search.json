@@ -9,8 +9,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Personal Website",
+    "title": "Claire Hayashida",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Claire Hayashida is a third-year undergraduate at the University of California, Los Angeles with interests in Data Science and Accounting. Download My Resume"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Claire Hayashida",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Statistics and Data Science | Sept 2022 - June 2026"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "American Statistical Association’s DataFest (2024)\n\nAnalyzed user behavior in Python to predict student performance and assist in textbook development\nWinner of the Judge’s Choice Prize for Best Data Engineering and Preparation\n\n\n\nPredicting Life Expectancy Based on WHO Predictors (2024)\n\nBuilt and tested a statistical model in R to predict life expectancy in developing countries\nCleaned and utilized data from the World Health Organization"
+  },
+  {
+    "objectID": "Projects.html#built-and-tested-a-statistical-model-in-r-to-predict-life-expectancy-in-developing-countries",
+    "href": "Projects.html#built-and-tested-a-statistical-model-in-r-to-predict-life-expectancy-in-developing-countries",
+    "title": "Projects",
+    "section": "Built and tested a statistical model in R to predict life expectancy in developing countries",
+    "text": "Built and tested a statistical model in R to predict life expectancy in developing countries"
+  },
+  {
+    "objectID": "Projects.html#cleaned-and-utilized-data-from-the-world-health-organization",
+    "href": "Projects.html#cleaned-and-utilized-data-from-the-world-health-organization",
+    "title": "Projects",
+    "section": "Cleaned and utilized data from the World Health Organization",
+    "text": "Cleaned and utilized data from the World Health Organization"
   }
 ]

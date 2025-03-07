@@ -1,0 +1,14 @@
+---
+title: "Projects"
+format: html
+---
+
+# American Statistical Association's DataFest (2024)
+
+* Analyzed user behavior in Python to predict student performance and assist in textbook development 
+* Winner of the Judge's Choice Prize for Best Data Engineering and Preparation
+
+# Predicting Life Expectancy Based on WHO Predictors (2024)
+
+* Built and tested a statistical model in R to predict life expectancy in developing countries 
+* Cleaned and utilized data from the World Health Organization
