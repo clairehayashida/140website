@@ -40,5 +40,12 @@
     "title": "Projects",
     "section": "Cleaned and utilized data from the World Health Organization",
     "text": "Cleaned and utilized data from the World Health Organization"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "American Statistical Association’s DataFest (2024)\n\nAnalyzed user behavior in Python to predict student performance and assist in textbook development\nWinner of the Judge’s Choice Prize for Best Data Engineering and Preparation\n\n\n\nPredicting Life Expectancy Based on WHO Predictors (2024)\n\nBuilt and tested a statistical model in R to predict life expectancy in developing countries\nCleaned and utilized data from the World Health Organization"
   }
 ]
